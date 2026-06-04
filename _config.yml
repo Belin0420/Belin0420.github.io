@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ZKB.jpg"
+  avatar           : "images/ZKB.jpg"
   name             : "Kangbo Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Guangdong University of Technology"
