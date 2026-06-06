@@ -22,13 +22,13 @@ I received my Bachelor's degree from the School of Information Engineering, Guan
 
 #### Image Deraining
 - ***Cross-Scenario Deraining Adaptation with Unpaired Data: Superpixel Structural Priors and Multi-Stage Pseudo-Rain Synthesize*** \
-Junyao Li, **Yahao Lu***, Xingyuan Guo, Xiaoyu Xian, Tiantian Wang, Yukai Shi \
-**Neural Networks (NN))**, 2025. [[PDF](https://arxiv.org/abs/2507.18260)][[Code(Coming soon)](https://luy0222.github.io/)]
+**Kangbo Zhao*** , Miaoxin Guan, Xiang Chen, Yukai Shi, Jinshan Pan \
+**IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)**, 2026. [[PDF](https://arxiv.org/pdf/2603.21661)]
 
-#### Scene Text Recognition and Autonomous Driving
-- ***Advanced scene text recognition and application for dynamic driving scenes*** \
-Jiahao Wang, **Yahao Lu***, Lianpei Wu \
-**International Conference on Signal Image Processing and Communication(ICSIPC)**, 2024.[[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13253/1325318/Advanced-scene-text-recognition-and-application-for-dynamic-driving-scenes/10.1117/12.3041890.short)][[Code](https://luy0222.github.io/)]
+####  Human Facial Sketch
+- ***One-shot Face Sketch Synthesis in the Wild via Generative Diffusion Prior and Instruction Tuning*** \
+Wu Han, Li Junyao, **Kangbo Zhao*** \
+**Association for Computing Machinery**, May 2026.[[PDF](https://arxiv.org/pdf/2506.15312)]
 
 # 📖 Educations
 - *2024.09 - now*, Master, School of Information Engineering, Guangdong University of Technology.
