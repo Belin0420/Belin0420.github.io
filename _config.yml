@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/ZKB.jpg"
+  avatar           : "images/ZKB.png"
   name             : "Kangbo Zhao"  
   bio              : "Guangdong University of Technology"
   location         : "Guangzhou, China"
