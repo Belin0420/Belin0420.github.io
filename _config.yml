@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   name             : "Kangbo Zhao" 
-  avatar           : "images/ZKB.jpg"  
+  avatar           : "ZKB.jpg"  
   bio              : "Guangdong University of Technology"
   location         : "Guangzhou, China"
   email            : "zhaokangbo329@gmail.com" 
